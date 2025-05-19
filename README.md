@@ -5,7 +5,7 @@ Are you working on an interesting project and would like feedback from other att
 **We are offering all conference attendees** the opportunity to propose a discussion topic or share about a project you are working on and connect with the community during break sessions.
 
 ## What is a Lightning Discussion? ##
-Lightning Discussions are short, participant-led meetups to start conversations on a challenge, idea, or best practice. They are designed to initiate peer learning and connection. Lightning Discussions are informal, led by attendees and happen in small-group discussions without presentations or AV.
+Lightning Discussions are short, participant-led meetups to start conversations on a challenge, idea, or best practice. They are designed to initiate peer learning and connection. Lightning Discussions are informal, led by attendees and happen in small groups without presentations or AV.
 
 ## Instructions
 - Choose a slot that works for you below, edit the schedule on this page, and submit it as a pull request. Sign up is on first come-first first-served basis.
