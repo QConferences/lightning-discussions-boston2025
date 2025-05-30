@@ -26,6 +26,6 @@ Lightning Discussions are short, participant-led meetups to start conversations 
 3. [Your topic + Name & LinkedIn profile]
 
 **Tuesday, June 10** - 2:15 - 2:25 pm 
-1. [Your topic + Name & LinkedIn profile]
+1. Manager Talk: Connecting Cycles of Learning to Team Meeting design - Christina Dedrick - https://www.linkedin.com/in/christina-dedrick/
 2. [Your topic + Name & LinkedIn profile]
 3. [Your topic + Name & LinkedIn profile]
