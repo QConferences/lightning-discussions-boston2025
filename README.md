@@ -21,7 +21,7 @@ Lightning Discussions are short, participant-led meetups to start conversations 
 
 ## Schedule
 **Monday, June 9** - 2:15 - 2:25 pm
-1. [Your topic + Name & LinkedIn profile]
+1. Building an internal GenAI assistant for developers - [Bhupendra Mishra](https://www.linkedin.com/in/bhupendram/)
 2. [Your topic + Name & LinkedIn profile]
 3. [Your topic + Name & LinkedIn profile]
 
