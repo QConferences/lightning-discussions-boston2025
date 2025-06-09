@@ -22,7 +22,7 @@ Lightning Discussions are short, participant-led meetups to start conversations 
 ## Schedule
 **Monday, June 9** - 2:15 - 2:25 pm
 1. Building an internal GenAI assistant for developers - [Bhupendra Mishra](https://www.linkedin.com/in/bhupendram/)
-2. [Your topic + Name & LinkedIn profile]
+2. Efficient Data Analytics across Large Tabular Datasets with Apache Arrow - [Jordan Geltner](http://linkedin.com/in/jordan-geltner-8a311185)
 3. [Your topic + Name & LinkedIn profile]
 
 **Tuesday, June 10** - 2:15 - 2:25 pm 
