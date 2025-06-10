@@ -27,5 +27,5 @@ Lightning Discussions are short, participant-led meetups to start conversations 
 
 **Tuesday, June 10** - 2:15 - 2:25 pm 
 1. Manager Talk: Connecting Cycles of Learning to Team Meeting design - [Christina Dedrick](https://www.linkedin.com/in/christina-dedrick/)
-2. [Your topic + Name & LinkedIn profile]
+2. From Prototype to Production: AI Assist Development Takeaways + Open Discussion - [Gabriel Markley](https://www.linkedin.com/in/gabrielmarkley/)
 3. [Your topic + Name & LinkedIn profile]
